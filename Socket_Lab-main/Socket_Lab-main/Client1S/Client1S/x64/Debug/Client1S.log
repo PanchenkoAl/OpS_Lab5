@@ -1,0 +1,5 @@
+﻿  Client1S.cpp
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Client1S\Client1S\Client1S.cpp(30,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Client1S\Client1S\Client1S.cpp(112,45): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Client1S\Client1S\Client1S.cpp(120,41): warning C4101: 'ex': unreferenced local variable
+  Client1S.vcxproj -> C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Client1S\x64\Debug\Client1S.exe

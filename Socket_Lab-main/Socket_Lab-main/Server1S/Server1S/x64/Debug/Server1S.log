@@ -1,0 +1,16 @@
+﻿  Server1S.cpp
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(28,9): warning C4101: 'msg_size': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(47,9): warning C4101: 'valueClient': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(33,9): warning C4101: 'msgr_size': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(83,49): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(87,45): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(107,49): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(111,45): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(221,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(234,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(288,53): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(292,49): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(311,53): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(315,49): warning C4101: 'ex': unreferenced local variable
+C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\Server1S\Server1S.cpp(363,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Server1S.vcxproj -> C:\Users\dwarf\Downloads\Socket_Lab-main\Socket_Lab-main\Server1S\x64\Debug\Server1S.exe
